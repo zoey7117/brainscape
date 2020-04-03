@@ -1,0 +1,9 @@
+h3 {
+  font-size: 120px;
+  color: grey;
+  font-weight: 300;
+  letter-spacing: 3px;
+  text-shadow: 2px 2px black;
+  margin-left: 3%;
+  z-index: 10;
+}
